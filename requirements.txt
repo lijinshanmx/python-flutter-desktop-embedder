@@ -1,0 +1,9 @@
+certifi==2018.11.29
+cffi==1.11.5
+chardet==3.0.4
+glfw-cffi==0.2.0
+idna==2.8
+pycparser==2.19
+PyOpenGL==3.1.0
+requests==2.21.0
+urllib3==1.24.1
